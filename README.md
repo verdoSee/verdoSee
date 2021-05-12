@@ -1,4 +1,4 @@
-- 👋 Hi, I’m raphael aka @verdoSee 
+- 👋 Hi, I’m Raphael aka @verdoSee 
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning c/c++, python, sql
 - 💞️ I’m looking to collaborate with a known company in the future (haven't decided witch one yet)
