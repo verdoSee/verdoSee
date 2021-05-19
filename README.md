@@ -9,7 +9,7 @@
   A teen with a dream to become full stack developer
 </p>
 <p align="center">
-  <img width="900"  src="https://komarev.com/ghpvc/?username=verdoSee&color=green" alt="animated">
+  <img width="100"  src="https://komarev.com/ghpvc/?username=verdoSee&color=green" alt="animated">
 </p>
 
 
