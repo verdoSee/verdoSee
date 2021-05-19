@@ -1,8 +1,6 @@
 
-
-
  <div align="center">
-  <img width="900"  src="https://user-images.githubusercontent.com/65507003/118805386-8af40400-b8ae-11eb-9cee-3937cc3b5780.gif" alt="animated">
+  <img width="900"  src="https://user-images.githubusercontent.com/65507003/118805623-cc84af00-b8ae-11eb-9732-7d5f66e76bfe.gif" alt="animated">
 </div>
 
 <div align="center">
