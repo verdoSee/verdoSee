@@ -31,7 +31,7 @@
 
 
 <div align="center">
-  <img width="100"  src="https://komarev.com/ghpvc/?username=verdoSee&color=green" alt="animated">
+  <img width="100"  src="https://komarev.com/ghpvc/?username=verdoSee&color=blue" alt="animated">
  </div>
 
 <!---
