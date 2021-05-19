@@ -22,9 +22,9 @@
 </div>
 
 
-<button align="center">
+<div align="center">
   <img width="100"  src="https://komarev.com/ghpvc/?username=verdoSee&color=green" alt="animated">
-</button>
+ </div>
 
 <!---
 verdoSee/verdoSee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
