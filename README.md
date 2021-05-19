@@ -1,6 +1,6 @@
   
    <p align="center">
-  ![Peek 2021-05-19 12-36](https://user-images.githubusercontent.com/65507003/118791543-76f4d600-b89f-11eb-9a37-909dd93c8c61.gif)
+  https://user-images.githubusercontent.com/65507003/118791543-76f4d600-b89f-11eb-9a37-909dd93c8c61.gif
   </p>
 
 - 👋 Hi, I’m Raphael aka @verdoSee 
