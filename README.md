@@ -5,10 +5,13 @@
 
 
 
-- 👋 Hi, I’m Raphael aka @verdoSee 
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning c/c++, python, sql
-- 💞️ I’m looking to collaborate with a known company in the future (haven't decided witch one yet)
+<p align="center">
+  A teen with a dream to become full stack developer
+</p>
+<p align="center">
+  ![](https://komarev.com/ghpvc/?username=versoSee&color=green)
+</p>
+
 
 <!---
 verdoSee/verdoSee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
