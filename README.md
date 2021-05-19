@@ -1,9 +1,9 @@
 
 
 
- <p align="center">
+ <div align="center">
   <img width="900"  src="https://user-images.githubusercontent.com/65507003/118802688-1bc8e080-b8ab-11eb-88fb-7550d1b3ac91.gif" alt="animated">
-</p>
+</div>
 
 
 
@@ -17,9 +17,9 @@
   A teen with a dream to become full stack developer
 </h1>
 
-<p align="center">
-  <img width="500"  src="https://github-readme-stats.vercel.app/api?username=verdoSee&show_icons=true&theme=radical" alt="animated">
-</p>
+<div align="center">
+  <button width="500"  src="https://github-readme-stats.vercel.app/api?username=verdoSee&show_icons=true&theme=radical" alt="animated">
+</div>
 
 
 <p align="center">
