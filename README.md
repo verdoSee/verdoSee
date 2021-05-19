@@ -8,12 +8,14 @@
 <h1 align="center">
   A teen with a dream to become full stack developer
 </h1>
-<p align="center">
-  <img width="100"  src="https://komarev.com/ghpvc/?username=verdoSee&color=green" alt="animated">
-</p>
 
 <p align="center">
   <img width="500"  src="https://github-readme-stats.vercel.app/api?username=verdoSee&show_icons=true&theme=radical" alt="animated">
+</p>
+
+
+<p align="center">
+  <img width="100"  src="https://komarev.com/ghpvc/?username=verdoSee&color=green" alt="animated">
 </p>
 
 <!---
