@@ -5,9 +5,9 @@
 
 
 
-<p align="center">
+<h1 align="center">
   A teen with a dream to become full stack developer
-</p>
+</h1>
 <p align="center">
   <img width="100"  src="https://komarev.com/ghpvc/?username=verdoSee&color=green" alt="animated">
 </p>
