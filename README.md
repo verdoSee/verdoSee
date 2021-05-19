@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img width="100"  src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical" alt="animated">
+  <img width="500"  src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical" alt="animated">
 </p>
 
 <!---
