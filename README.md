@@ -5,11 +5,9 @@
   <img width="900"  src="https://user-images.githubusercontent.com/65507003/118802688-1bc8e080-b8ab-11eb-88fb-7550d1b3ac91.gif" alt="animated">
 </div>
 
-
-
- [![verdoSee - Decryption-Effect](https://img.shields.io/static/v1?label=verdoSee&message=Decryption-Effect&color=blue&logo=github)](https://github.com/verdoSee/Decryption-Effect)
-[![stars - Decryption-Effect](https://img.shields.io/github/stars/verdoSee/Decryption-Effect?style=social)](https://github.com/verdoSee/Decryption-Effect)
-[![forks - Decryption-Effect](https://img.shields.io/github/forks/verdoSee/Decryption-Effect?style=social)](https://github.com/verdoSee/Decryption-Effect)
+https://img.shields.io/static/v1?label=verdoSee&message=Decryption-Effect&color=blue&logo=github)](https://github.com/verdoSee/Decryption-Effect
+https://img.shields.io/github/stars/verdoSee/Decryption-Effect?style=social)](https://github.com/verdoSee/Decryption-Effect
+https://img.shields.io/github/forks/verdoSee/Decryption-Effect?style=social)](https://github.com/verdoSee/Decryption-Effect
 
 
 
