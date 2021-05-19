@@ -18,13 +18,13 @@
 </h1>
 
 <div align="center">
-  <button width="500"  src="https://github-readme-stats.vercel.app/api?username=verdoSee&show_icons=true&theme=radical" alt="animated">
+  <img width="500"  src="https://github-readme-stats.vercel.app/api?username=verdoSee&show_icons=true&theme=radical" alt="animated">
 </div>
 
 
-<p align="center">
+<button align="center">
   <img width="100"  src="https://komarev.com/ghpvc/?username=verdoSee&color=green" alt="animated">
-</p>
+</button>
 
 <!---
 verdoSee/verdoSee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
