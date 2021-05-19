@@ -1,7 +1,7 @@
   
-   <p align="center">
+
   !https://user-images.githubusercontent.com/65507003/118791543-76f4d600-b89f-11eb-9a37-909dd93c8c61.gif
-  </p>
+
 
 - 👋 Hi, I’m Raphael aka @verdoSee 
 - 👀 I’m interested in software development
