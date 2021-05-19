@@ -1,6 +1,9 @@
-  
 
-  !https://user-images.githubusercontent.com/65507003/118791543-76f4d600-b89f-11eb-9a37-909dd93c8c61.gif
+ <p align="center">
+
+  <img width="200" src="https://user-images.githubusercontent.com/65507003/118792550-6ee96600-b8a0-11eb-954e-611ca0b181cd.gif)">
+</p>
+
 
 
 - 👋 Hi, I’m Raphael aka @verdoSee 
