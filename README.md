@@ -22,7 +22,7 @@
 
 
 <h1 align="center">
-  A teen with a dream to become full stack developer
+  A teenager with a goal of becoming a self-taught developer.
 </h1>
 
 <div align="center">
