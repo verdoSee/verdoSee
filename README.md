@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img width="500"  src="https://github-readme-stats.vercel.app/api?username=verdoSee=true&theme=radical" alt="animated">
+  <img width="500"  src="https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats" alt="animated">
 </p>
 
 <!---
