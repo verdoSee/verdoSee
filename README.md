@@ -7,9 +7,9 @@
 
 
  <p align="center">
-  <img width="200"  src="https://img.shields.io/static/v1?label=verdoSee&message=Decryption-Effect&color=blue&logo=github)](https://github.com/verdoSee/Decryption-Effect" alt="animated">
- <img width="60"  src="https://img.shields.io/github/stars/verdoSee/Decryption-Effect?style=social)](https://github.com/verdoSee/Decryption-Effect" alt="animated">
- <img width="60"  src="https://img.shields.io/github/forks/verdoSee/Decryption-Effect?style=social)](https://github.com/verdoSee/Decryption-Effect" alt="animated">
+  [![verdoSee - Decryption-Effect](https://img.shields.io/static/v1?label=verdoSee&message=Decryption-Effect&color=blue&logo=github)](https://github.com/verdoSee/Decryption-Effect)
+[![stars - Decryption-Effect](https://img.shields.io/github/stars/verdoSee/Decryption-Effect?style=social)](https://github.com/verdoSee/Decryption-Effect)
+[![forks - Decryption-Effect](https://img.shields.io/github/forks/verdoSee/Decryption-Effect?style=social)](https://github.com/verdoSee/Decryption-Effect)
 </p>
 
 
