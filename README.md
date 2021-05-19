@@ -6,11 +6,11 @@
 </p>
 
 
- <p align="center">
-  [![verdoSee - Decryption-Effect](https://img.shields.io/static/v1?label=verdoSee&message=Decryption-Effect&color=blue&logo=github)](https://github.com/verdoSee/Decryption-Effect)
+ < align="center">
+ [![verdoSee - Decryption-Effect](https://img.shields.io/static/v1?label=verdoSee&message=Decryption-Effect&color=blue&logo=github)](https://github.com/verdoSee/Decryption-Effect)
 [![stars - Decryption-Effect](https://img.shields.io/github/stars/verdoSee/Decryption-Effect?style=social)](https://github.com/verdoSee/Decryption-Effect)
 [![forks - Decryption-Effect](https://img.shields.io/github/forks/verdoSee/Decryption-Effect?style=social)](https://github.com/verdoSee/Decryption-Effect)
-</p>
+<>
 
 
 <h1 align="center">
