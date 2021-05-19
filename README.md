@@ -28,12 +28,6 @@
 <div align="center">
   <img width="500"  src="https://github-readme-stats.vercel.app/api?username=verdoSee&show_icons=true&theme=radical" alt="animated">
 </div>
-
-
-<div align="center">
-  <img width="100"  src="https://komarev.com/ghpvc/?username=verdoSee&color=blue" alt="animated">
- </div>
-
 <!---
 verdoSee/verdoSee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
