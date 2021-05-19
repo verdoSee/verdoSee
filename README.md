@@ -12,8 +12,10 @@
   <img width="100"  src="https://komarev.com/ghpvc/?username=verdoSee&color=green" alt="animated">
 </p>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 <p align="center">
-  <img width="500"  src="https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats" alt="animated">
+  <img width="500"  src="https://github-readme-stats.vercel.app/api?username=verdoSee&show_icons=true&theme=radical" alt="animated">
 </p>
 
 <!---
